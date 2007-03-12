@@ -1,4 +1,4 @@
-Date::Holidays::ES version 0.01
+Date::Holidays::ES version 0.02
 =======================================
 
 Spanish holidays for Date::Holidays
@@ -19,6 +19,7 @@ This module requires these other modules and libraries:
 Perl modules:
 
   Date::Holidays
+  Date::Holidays::Super
   Date::Easter
   Time::JulianDay
   DateTime

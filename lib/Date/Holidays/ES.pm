@@ -7,7 +7,7 @@ use Date::Easter ();
 use Time::JulianDay ();
 use Carp qw(croak);
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 
 sub new {

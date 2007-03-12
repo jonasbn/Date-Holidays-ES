@@ -6,6 +6,7 @@ author          ('Florian Merges <fmerges@cpan.org>');
 license         ('perl');
 version_from    ('lib/Date/Holidays/ES.pm');
 requires        ('Date::Holidays');
+requires        ('Date::Holidays::Super');
 requires        ('Date::Easter');
 requires        ('Time::JulianDay');
 requires        ('DateTime');
