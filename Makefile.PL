@@ -26,7 +26,6 @@ name            ('Date-Holidays-ES');
 abstract        ('Spanish holidays for Date::Holidays');
 author          ('Florian Merges <fmerges@cpan.org>');
 version_from    ('lib/Date/Holidays/ES.pm');
-requires        ('Date::Holidays');
 requires        ('Date::Holidays::Super');
 requires        ('Date::Easter');
 requires        ('Time::JulianDay');
